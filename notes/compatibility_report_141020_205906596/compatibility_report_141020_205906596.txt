@@ -1,0 +1,3 @@
+El icono macOS ${options_dir}\mac\icons\icon512.png se ha escrito como de 32-bit
+El script del instalador de Windows NSIS se ha pasado a predeterminado debido a cambios en GameMaker Studio 2
+Velocidad del juego fijada en 30
